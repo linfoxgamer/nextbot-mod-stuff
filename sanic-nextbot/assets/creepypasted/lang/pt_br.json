@@ -1,8 +1,8 @@
 {
-  "item.creepypasted.obunga_spawn_egg": "Ovo Gerador de Obunga",
-  "entity.creepypasted.obunga": "Obunga",
-  "subtitles.nextbot.hurt": "Nextbot Hurted",
+  "item.creepypasted.obunga_spawn_egg": "Ovo Gerador de Sanic",
+  "entity.creepypasted.obunga": "Sanic",
+  "subtitles.nextbot.hurt": "Sanic machucado",
   "subtitles.obunga.fnaf2": "som do fnaf super top",
-  "subtitles.nextbot.idle": "Nextbot approaches you",
-  "subtitles.nextbot.death": "Nextbot Dies"
+  "subtitles.nextbot.idle": "Sanic se aproxima da sua localização atual",
+  "subtitles.nextbot.death": "Sanic morre"
 }
