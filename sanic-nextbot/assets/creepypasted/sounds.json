@@ -1,0 +1,12 @@
+{
+  "obunga.fnaf2": {
+    "category": "hostile",
+    "subtitle": "subtitles.obunga.fnaf2",
+    "sounds": [
+      {
+        "name": "creepypasted:fnaf2",
+        "stream": false
+      }
+    ]
+  }
+}
