@@ -1,8 +1,8 @@
 {
-  "item.creepypasted.obunga_spawn_egg": "Obunga Spawn Egg",
-  "entity.creepypasted.obunga": "Obunga",
-  "subtitles.nextbot.hurt": "Nextbot Hurted",
-  "subtitles.obunga.fnaf2": "Nextbot Sounds",
-  "subtitles.nextbot.idle": "Nextbot approaches you",
-  "subtitles.nextbot.death": "Nextbot Dies"
+  "item.creepypasted.obunga_spawn_egg": "Sanic Spawn Egg",
+  "entity.creepypasted.obunga": "Sanic",
+  "subtitles.nextbot.hurt": "Sanic Hurted",
+  "subtitles.obunga.fnaf2": "Sanic Sounds",
+  "subtitles.nextbot.idle": "Sanic approaches you",
+  "subtitles.nextbot.death": "Sanic Dies"
 }
