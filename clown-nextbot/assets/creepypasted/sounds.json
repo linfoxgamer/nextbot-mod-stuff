@@ -1,0 +1,32 @@
+{
+  "nextbot.idle": {
+    "category": "hostile",
+    "subtitle": "subtitles.nextbot.idle",
+    "sounds": [
+      {
+        "name": "creepypasted:nextbot_idle",
+        "stream": false
+      }
+    ]
+  },
+  "nextbot.hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.nextbot.hurt",
+    "sounds": [
+      {
+        "name": "creepypasted:nextbot_hit",
+        "stream": false
+      }
+    ]
+  },
+  "nextbot.death": {
+    "category": "hostile",
+    "subtitle": "subtitles.nextbot.death",
+    "sounds": [
+      {
+        "name": "creepypasted:nextbot_death",
+        "stream": false
+      }
+    ]
+  }
+}
